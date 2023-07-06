@@ -1,0 +1,4 @@
+aiogram==2.14.3
+requests~=2.25.1
+aioschedule~=0.5.2
+python-dotenv~=0.19.0
